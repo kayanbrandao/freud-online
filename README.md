@@ -4,7 +4,7 @@ Somos acadêmicos do segundo semestre do curso de Tecnólogo em Análise e Desen
 A psicanálise faz estudo da psique humana, que está em sua forma inconsciente. Portanto, ela busca pessoas que tem interesse de ir muito além do que achamos que possa ser o consciente. Por isso que em vários campos de atuação que contribui para o tratamento da mente humana, a psicanálise é uma ferramenta essencial para o tratamento e a melhora da qualidade de vida, sempre como ponto principal o inconsciente.
 
 ### Nossa Aplicação
-Nossa Clínica Psicanalítica Online será implementa de forma que os valores das consultas sejam de forma mais popular e acessível para o nosso público. Com o diferencial de que o paciente podera habilitar a opção de anônimato, sendo assim tem sua identidade restrita. E se algum momento a paciente se sentir bem para se expor, o mesmo podera desabilitar está opção.  
+Nossa Clínica Psicanalítica Online será implementa de forma que os valores das consultas sejam de forma mais popular e acessível para o nosso público. Com o diferencial de que o paciente podera habilitar a opção de anônimato, sendo assim tendo sua identidade restrita. E se em algum momento o paciente se sentir bem para se expor, o mesmo podera desabilitar está opção.  
 Estamos desenvolvendo a aplicação que será disponíbilizado em versões Web e Mobile.
 
 ## Estudo de mercado
