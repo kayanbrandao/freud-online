@@ -16,3 +16,6 @@ Arthur Gomes | [@arthurtnf](https://www.instagram.com/arthurtnf/)
 Jéssica |
 João Ygor | [@joaoygor.r](https://www.instagram.com/joaoygor.r/)
 Kayan Brandão | [@kayan_brandao](https://www.instagram.com/kayan_brandao/)
+
+## Site
+Para a fase de prototipagem e teste, vamos utilizar o GitHub Pages que irá hospedar nosso site --> [Freud Onlie](https://kayanbrandao.github.io/freud-online/)
