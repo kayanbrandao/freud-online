@@ -14,7 +14,7 @@ Estamos realizando um questionário para termos uma noção de como se trata o m
 Membro | Instagram
 ---|---
 Arthur Gomes | [@arthurtnf](https://www.instagram.com/arthurtnf/)
-Jéssica |
+Jéssica de Haro |[]()
 João Ygor | [@joaoygor.r](https://www.instagram.com/joaoygor.r/)
 Kayan Brandão | [@kayan_brandao](https://www.instagram.com/kayan_brandao/)
 
